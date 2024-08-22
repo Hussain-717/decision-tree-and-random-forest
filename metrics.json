@@ -1,0 +1,15 @@
+{
+    "Training Accuracy dt": 0.7966831328741703,
+    "Testing Accuracy dt": 0.2234166481338835,
+    "Precision dt": 0.2234166481338835,
+    "Training Accuracy rf": 0.7760910815939279,
+    "Testing Accuracy rf": 0.6091445427728613,
+    "Precision rf": 0.2401596703894564,
+    "Best param": {
+        "bootstrap": true,
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10,
+        "n_estimators": 200
+    }
+}
